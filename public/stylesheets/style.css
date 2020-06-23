@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(0.25turn, #671aaf, #41d1ad);
+}
+
+header {
+  margin-bottom: 3em;
+}
+
+.h4 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: 700;
+  font-size: 2em !important;
+}
+
+img {
+  margin-top: .25em;
+}
